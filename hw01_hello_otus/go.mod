@@ -1,4 +1,4 @@
-module github.com/bob-cattle/hw01_hello_otus
+module bob-cattle/golang-prof/hw01_hello_ous
 
 go 1.19
 
